@@ -6,3 +6,5 @@
 - It features Login, Sign in with Google, Sign up, and Log out functionalities.
 - Data Authentication is done using manual coding.
 - Styled components are used extensively for a better layout.
+- 
+![Login](https://github.com/originalsidd/Portal-Auth-Test/assets/img/Login Screen.png?raw=true)
